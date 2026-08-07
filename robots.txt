@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-40nts1.juragan89site.site/sitemap.xml
